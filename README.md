@@ -1,10 +1,22 @@
-### Hi there, i'm Pedro! Glad to see you here!👋
+<div align="center">
+  
+ ### Hi there, i'm Pedro! Glad to see you here!👋
+  
+</div>
 
+<br>
+ 
+<div align="center">
+  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrorodriguesh&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+  
+</div>
+
+<br>
 
 🔭 I'm currently studying JavaScript and looking forward to new techs! I'm really excited to start with Angular and Node.JS.
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
