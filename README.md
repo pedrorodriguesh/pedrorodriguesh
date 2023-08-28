@@ -14,7 +14,11 @@
 
 <br>
 
+<div align="center">
+
 🔭 I'm currently studying JavaScript and looking forward to new techs! I'm really excited to start with Angular and Node.JS.
+  
+</div>
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
