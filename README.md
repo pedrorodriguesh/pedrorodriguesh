@@ -16,7 +16,7 @@
 
 <div align="center">
 
-🔭 I'm currently studying JavaScript and looking forward to new techs! I'm really excited to start with Angular and Node.JS.
+🔭 Working with Typescript with NodeJS and Angular.
   
 </div>
 
